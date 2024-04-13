@@ -8,8 +8,20 @@ Welcome to the project on Multicollinearity and PLS Regression! In this project,
 
 ### Built With
 
-* [Scikit-learn][Scikit-learn-url]
-* [Pandas][Pandas-url]
-* [Matplotlib][Matplotlib-url]
+* [![Python][Python-shield]][[Python-link]]
+* [![Pandas][Pandas-shield]][[Pandas-link]]
+* [![Sk-learn][sklearn-shield]][[sklearn-link]]
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-link]: https://www.python.org/
+[Pandas-shield]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-link]:https://pandas.pydata.org/
+[sklearn-shield]:https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
+[sklearn-link]: https://scikit-learn.org/stable/
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
