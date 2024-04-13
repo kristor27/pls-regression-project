@@ -6,14 +6,14 @@
 
 Welcome to the project on Multicollinearity and PLS Regression! In this project, we aim to explore and model data exhibiting strong multicollinearity among predictors. The dataset we'll be working with contains information from the 2022 French presidential elections, focusing on modeling the results of the second round and identifying trends and outliers across different regions.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Built With
 
-* [![Python][Python-shield]][[Python-link]]
-* [![Pandas][Pandas-shield]][[Pandas-link]]
-* [![Sk-learn][sklearn-shield]][[sklearn-link]]
+* [![Python][Python-shield]]
+* [![Pandas][Pandas-shield]]
+* [![Sk-learn][sklearn-shield]]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
